@@ -1,5 +1,5 @@
-﻿Add-Type -Path "C:\Documents\PS\CSOM\Microsoft.SharePoint.Client.dll"
-Add-Type -Path "C:\Documents\PS\CSOM\Microsoft.SharePoint.Client.Runtime.dll"
+﻿Add-Type -Path ".\CSOM\Microsoft.SharePoint.Client.dll"
+Add-Type -Path ".\CSOM\Microsoft.SharePoint.Client.Runtime.dll"
 
 
 $username = "USER ID" 
