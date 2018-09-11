@@ -1,0 +1,66 @@
+<TermSets>
+	<TermSet Name="Countries">		
+		<Term Name="Regions" >				
+					<Term Name="Global" ></Term>
+					<Term Name="India &amp; Southeast Asia" >
+						<Term Name="India" ></Term>
+						<Term Name="Indonesia" ></Term>
+						<Term Name="Malaysia" ></Term>
+						<Term Name="Philippines" ></Term>
+						<Term Name="Thailand" ></Term>
+						<Term Name="Vietnam" ></Term>
+					</Term>
+					<Term Name="Latin America" >
+						<Term Name="Argentina" ></Term>
+						<Term Name="Bolivia" ></Term>
+						<Term Name="Brazil" ></Term>
+						<Term Name="Uruguay" ></Term>
+						<Term Name="Venezuela" ></Term>
+					</Term>
+					<Term Name="Middle East &amp; North Africa" >
+						<Term Name="Algeria" ></Term>
+						<Term Name="Bahrain" ></Term>
+						<Term Name="Egypt" ></Term>					
+						<Term Name="Turkey" ></Term>
+						<Term Name="UAE" ></Term>
+					</Term>
+					<Term Name="North America" >
+						<Term Name="Canada" ></Term>
+						<Term Name="USA" ></Term>
+					</Term>
+					<Term Name="North Asia" >
+						<Term Name="Japan" ></Term>
+						<Term Name="Korea" ></Term>
+						<Term Name="Taiwan" ></Term>
+					</Term>
+					<Term Name="Oceania" >
+						<Term Name="Australia" ></Term>
+						<Term Name="New Zealand" ></Term>
+					</Term>
+					<Term Name="Russia &amp; other CIS" >
+						<Term Name="Kazakhstan" ></Term>
+						<Term Name="Russia" ></Term>
+						<Term Name="Ukraine" ></Term>
+					</Term>
+					<Term Name="West Europe" >
+						<Term Name="Austria" ></Term>
+						<Term Name="Belgium" ></Term>
+						<Term Name="Denmark" ></Term>					
+						<Term Name="Portugal" ></Term>
+						<Term Name="Spain" ></Term>
+						<Term Name="Sweden" ></Term>
+						<Term Name="UK" ></Term>
+					</Term>
+					<Term Name="South Africa" >
+						<Term Name="Botswana" ></Term>
+						<Term Name="Congo" ></Term>
+						<Term Name="Mozambique" ></Term>
+						<Term Name="Namibia" ></Term>
+						<Term Name="South Africa" ></Term>
+						<Term Name="Tanzania" ></Term>
+						<Term Name="Zambia" ></Term>
+						<Term Name="Zimbabwe" ></Term>
+					</Term>
+				</Term>			
+	</TermSet>
+</TermSets>
